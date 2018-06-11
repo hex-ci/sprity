@@ -1,20 +1,20 @@
 {
-  "name": "sprity",
+  "name": "sprity-rem",
   "version": "1.0.8",
   "description": "A image sprite generator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sprity/sprity.git"
+    "url": "https://github.com/hex-ci/sprity"
   },
-  "homepage": "https://github.com/sprity/sprity",
+  "homepage": "https://github.com/hex-ci/sprity",
   "bugs": {
-    "url": "https://github.com/sprity/sprity/issues"
+    "url": "https://github.com/hex-ci/sprity/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/sprity/sprity/blob/master/LICENSE-MIT"
+      "url": "https://github.com/hex-ci/sprity/blob/master/LICENSE-MIT"
     }
   ],
   "author": {
@@ -61,11 +61,9 @@
     "ternary-stream": "^1.2.3",
     "through2": "^0.6.5",
     "vinyl": "^0.4.6",
-    "vinyl-fs": "^1.0.0"
-  },
-  "optionalDependencies": {
+    "vinyl-fs": "^1.0.0",
     "sprity-css": "^1.0.2",
-    "sprity-lwip": "^1.0.3"
+    "sprity-lwip": "^1.0.7"
   },
   "devDependencies": {
     "chai": "^2.2.0",
