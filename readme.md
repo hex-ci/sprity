@@ -1,4 +1,4 @@
-# sprity
+# sprity-rem
 
 > A modular image sprite generator.
 
