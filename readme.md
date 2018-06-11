@@ -1,7 +1,5 @@
 # sprity
 
-[![NPM version](https://badge.fury.io/js/sprity.svg)](http://badge.fury.io/js/sprity) [![Build Status](https://travis-ci.org/sprity/sprity.svg?branch=master)](https://travis-ci.org/sprity/sprity) [![Coverage Status](https://img.shields.io/coveralls/sprity/sprity.svg)](https://coveralls.io/r/sprity/sprity) [![Code Climate](https://codeclimate.com/github/sprity/sprity/badges/gpa.svg)](https://codeclimate.com/github/sprity/sprity) [![Dependencies](https://david-dm.org/sprity/sprity.svg)](https://david-dm.org/sprity/sprity)
-
 > A modular image sprite generator.
 
 > Generates sprites and proper style files out of a directory of images.
@@ -19,13 +17,13 @@
 Install with [npm](https://npmjs.org/package/sprity)
 
 ```
-npm install sprity --save
+npm install sprity-rem --save
 ```
 
 If you want to use `sprity` on your cli install with:
 
 ```
-npm install sprity -g
+npm install sprity-rem -g
 ```
 
 ## Usage
